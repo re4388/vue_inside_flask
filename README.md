@@ -37,10 +37,10 @@ https://dev.to/michaelbukachi/flask-vue-js-integration-tutorial-2g90
 
 ## logic
 1. Vue app ready
-2. setup vue.config.js
-3. build vue -> stactic file and html templates goes into folders under flask app
-4. write a view.py which creating a flask blueprint named sample_page and adding a route to it
-5. you flask server shall server vue FE
+2. write up vue.config.js
+3. Build vue -> stactic file and html templates goes into folders under flask app
+4. write a view.py which creating a flask blueprint and adding a route to it
+5. flask server can server vue now!
 
 
 
